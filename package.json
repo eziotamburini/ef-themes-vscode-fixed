@@ -118,6 +118,11 @@
 				"path": "./themes/ef-night.json"
 			},
 			{
+				"label": "ef-reverie",
+				"uiTheme": "vs",
+				"path": "./themes/ef-reverie.json"
+			},
+			{
 				"label": "ef-spring",
 				"uiTheme": "vs",
 				"path": "./themes/ef-spring.json"
