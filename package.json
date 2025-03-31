@@ -13,6 +13,11 @@
 	"contributes": {
 		"themes": [
 			{
+				"label": "ef-arbutus",
+				"uiTheme": "vs",
+				"path": "./themes/ef-arbutus.json"
+			},
+			{
 				"label": "ef-autumn",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ef-autumn.json"
