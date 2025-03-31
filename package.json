@@ -108,6 +108,11 @@
 				"path": "./themes/ef-maris-light.json"
 			},
 			{
+				"label": "ef-melissa-light",
+				"uiTheme": "vs",
+				"path": "./themes/ef-melissa-light.json"
+			},
+			{
 				"label": "ef-night",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ef-night.json"
