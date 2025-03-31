@@ -58,6 +58,11 @@
 				"path": "./themes/ef-deuteranopia-light.json"
 			},
 			{
+				"label": "ef-dream",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-dream.json"
+			},
+			{
 				"label": "ef-duo-dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ef-duo-dark.json"
@@ -118,9 +123,19 @@
 				"path": "./themes/ef-night.json"
 			},
 			{
+				"label": "ef-owl",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-owl.json"
+			},
+			{
 				"label": "ef-reverie",
 				"uiTheme": "vs",
 				"path": "./themes/ef-reverie.json"
+			},
+			{
+				"label": "ef-rosa",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-rosa.json"
 			},
 			{
 				"label": "ef-spring",
