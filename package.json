@@ -68,6 +68,11 @@
 				"path": "./themes/ef-duo-light.json"
 			},
 			{
+				"label": "ef-eagle",
+				"uiTheme": "vs",
+				"path": "./themes/ef-eagle.json"
+			},
+			{
 				"label": "ef-elea-dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ef-elea-dark.json"
