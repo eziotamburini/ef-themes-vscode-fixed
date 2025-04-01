@@ -1,8 +1,8 @@
 # Ef-Themes for VSCode Fixed
 
-This repository contains a curated and standardized version of the [ef-themes-vscode](https://github.com/anhsirk0/ef-themes-vscode) collection. It also adds missing themes.
+This repository contains a fixed version of the [ef-themes-vscode](https://github.com/anhsirk0/ef-themes-vscode) collection.
 
-All original themes are credited to [anhsirk0](https://github.com/anhsirk0) and the original author of the [ef-themes for Emacs](https://protesilaos.com/emacs/ef-themes/). This version reorganizes and enhances the themes to provide a consistent structure and modern format for personal and community use.
+All original themes are credited to [anhsirk0](https://github.com/anhsirk0) and the original author of the [ef-themes for Emacs](https://protesilaos.com/emacs/ef-themes/). This version enhances the themes to provide a address some issues from the old as well as adding some themes that were missing from the original collection.
 
 ## Installation
 
