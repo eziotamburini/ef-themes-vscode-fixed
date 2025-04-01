@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/license/eziotamburini/ef-themes-vscode-fixed" alt="License">
 </p>
-
+https://github.com/eziotamburini/ef-themes-vscode-fixed/edit/master/README.md
 Welcome to a refined and polished collection of Emacs-inspired themes, carefully adapted for Visual Studio Code. This repository contains a fixed, curated version of the [ef-themes-vscode](https://github.com/anhsirk0/ef-themes-vscode) collection. ✨
 
 All original themes are credited to [anhsirk0](https://github.com/anhsirk0) and the creator of the [ef-themes for Emacs](https://protesilaos.com/emacs/ef-themes/). This version enhances the original set by fixing inconsistencies, ensuring modern formatting, and adding several themes that were missing from the original port. 🎯🎨
@@ -32,7 +32,16 @@ Then restart VSCode and enjoy! 🎉 Open the command palette (`Ctrl+Shift+P` or 
 
 ## 🖼️ Theme Previews
 
-You can explore the beautifully crafted previews of the themes [here](https://protesilaos.com/emacs/ef-themes-pictures). Dive into subtle tones, elegant contrasts, and carefully designed palettes that respect your eyes and your code.
+Here’s a taste of what’s included:
+
+<p align="center">
+  <img src="screenshots/ef-autumn.png" width="30%" alt="Ef-Autumn"/>
+  <img src="screenshots/ef-maris-dark.png" width="30%" alt="Ef-Maris-Dark"/>
+  <img src="screenshots/ef-duo-light.png" width="30%" alt="Ef-Duo-Light"/>
+</p>
+
+👉 View the full gallery [here](screenshots/).
+
 
 ## ❤️ Credits & Acknowledgment
 
