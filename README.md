@@ -57,4 +57,4 @@ While this version offers fixes and improvements, the spirit and beauty of the E
 
 ---
 
-Make your editor serene, readable, and productive with Ef-Themes Fixed. 🌌 Happy coding! 💻✨
+Make your editor serene, readable, and productive with Ef-Themes for VSCode Fixed. 🌌 Happy coding! 💻✨
