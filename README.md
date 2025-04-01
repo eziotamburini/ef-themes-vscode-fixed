@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/license/eziotamburini/ef-themes-vscode-fixed" alt="License">
 </p>
-https://github.com/eziotamburini/ef-themes-vscode-fixed/edit/master/README.md
+
 Welcome to a refined and polished collection of Emacs-inspired themes, carefully adapted for Visual Studio Code. This repository contains a fixed, curated version of the [ef-themes-vscode](https://github.com/anhsirk0/ef-themes-vscode) collection. ✨
 
 All original themes are credited to [anhsirk0](https://github.com/anhsirk0) and the creator of the [ef-themes for Emacs](https://protesilaos.com/emacs/ef-themes/). This version enhances the original set by fixing inconsistencies, ensuring modern formatting, and adding several themes that were missing from the original port. 🎯🎨
