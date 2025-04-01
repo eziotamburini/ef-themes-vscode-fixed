@@ -50,8 +50,8 @@ Here’s a taste of what’s included:
 
 This project builds upon the work of two creators:
 
-- The original VSCode port by ([GitHub link](https://github.com/anhsirk0/ef-themes-vscode)) 🌐
-- The Emacs Ef-Themes by ([Ef-Themes website](https://protesilaos.com/emacs/ef-themes/)) 🎨🧠
+- The original VSCode port by anhsirk0 ([GitHub link](https://github.com/anhsirk0/ef-themes-vscode)) 🌐
+- The Emacs Ef-Themes by protesilaos ([Ef-Themes website](https://protesilaos.com/emacs/ef-themes/)) 🎨
 
 While this version offers fixes and improvements, the spirit and beauty of these themes come directly from their work.
 
