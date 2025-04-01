@@ -1,7 +1,8 @@
 {
-	"name": "ef-themes",
-	"displayName": "Ef-Themes",
+	"name": "ef-themes-fixed",
+	"displayName": "Ef-Themes for VSCode Fixed",
 	"publisher": "eziotamburini",
+	"icon": "icon.png",
 	"version": "1.0.0" ,
     "license": "GPL-3.0-or-later",
 	"engines": {
@@ -116,6 +117,11 @@
 				"label": "ef-melissa-light",
 				"uiTheme": "vs",
 				"path": "./themes/ef-melissa-light.json"
+			},
+			{
+				"label": "ef-melissa-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ef-melissa-dark.json"
 			},
 			{
 				"label": "ef-night",
