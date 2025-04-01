@@ -35,13 +35,16 @@ Then restart VSCode and enjoy! 🎉 Open the command palette (`Ctrl+Shift+P` or 
 Here’s a taste of what’s included:
 
 <p align="center">
-  <img src="screenshots/ef-autumn.png" width="30%" alt="Ef-Autumn"/>
-  <img src="screenshots/ef-maris-dark.png" width="30%" alt="Ef-Maris-Dark"/>
-  <img src="screenshots/ef-duo-light.png" width="30%" alt="Ef-Duo-Light"/>
+  <img src="https://raw.githubusercontent.com/eziotamburini/ef-themes-vscode-fixed/screenshots/screenshots/ef-autumn.png" width="30%" alt="Ef-Autumn" />
+  <img src="https://raw.githubusercontent.com/eziotamburini/ef-themes-vscode-fixed/screenshots/screenshots/ef-maris-dark.png" width="30%" alt="Ef-Maris Dark" />
+  <img src="https://raw.githubusercontent.com/eziotamburini/ef-themes-vscode-fixed/screenshots/screenshots/ef-duo-light.png" width="30%" alt="Ef-Duo Light" />
 </p>
 
-👉 View the full gallery [here](screenshots/).
 
+👉 View all the previews [in the `screenshots` branch](https://github.com/eziotamburini/ef-themes-vscode-fixed/tree/screenshots).
+
+🎨 You can also [Visit the official Ef-Themes gallery »](https://protesilaos.com/emacs/ef-themes-pictures/)
+.
 
 ## ❤️ Credits & Acknowledgment
 
