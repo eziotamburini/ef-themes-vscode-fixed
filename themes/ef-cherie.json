@@ -9,7 +9,7 @@
     "activityBarBadge.background": "#771a4f",
     "activityBarBadge.foreground": "#ffcfdf",
     "badge.background": "#771a4f",
-    "badge.foreground": "#190a0f",
+    "badge.foreground": "#ffcfdf",
     "breadcrumb.activeSelectionForeground": "#ef80bf",
     "breadcrumb.background": "#190a0f",
     "breadcrumb.focusForeground": "#ef80bf",
@@ -28,7 +28,11 @@
     "editor.findMatchHighlightBackground": "#5a300099",
     "editor.lineHighlightBackground": "#401f33",
     "editor.selectionBackground": "#232f3f",
+    "editor.selectionForeground": "#ffffff",
+    "editor.inactiveSelectionBackground": "#232f3f80",
+    "editor.selectionHighlightBackground": "#232f3f40",
     "editorCursor.foreground": "#ff5aaf",
+    "editorCursor.background": "#190a0f",
     "editorError.foreground": "#ff7359",
     "editorGroup.border": "#392a2f",
     "editorGroupHeader.tabsBackground": "#1e1216",
@@ -37,6 +41,7 @@
     "editorHoverWidget.border": "#594a4f",
     "editorIndentGuide.background": "#291f26",
     "editorLineNumber.foreground": "#808898",
+    "editorLineNumber.activeForeground": "#ffffff",
     "editorLink.activeForeground": "#df7fff",
     "editorRuler.foreground": "#3f3f3f",
     "editorSuggestWidget.background": "#392a2f",
@@ -146,7 +151,7 @@
         "constant"
       ],
       "settings": {
-        "foreground": "#d3cfcf"
+        "foreground": "#ff78aa"
       }
     },
     {
@@ -187,7 +192,8 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#f59280"
+        "foreground": "#f59280",
+        "fontStyle": "bold"
       }
     },
     {
@@ -198,7 +204,7 @@
         "storage.type.type"
       ],
       "settings": {
-        "foreground": "#ef80bf"
+        "foreground": "#f470df"
       }
     },
     {
@@ -207,7 +213,8 @@
         "storage.modifier.async"
       ],
       "settings": {
-        "foreground": "#ef80bf"
+        "foreground": "#ef80bf",
+        "fontStyle": "bold"
       }
     },
     {
@@ -218,7 +225,8 @@
         "storage"
       ],
       "settings": {
-        "foreground": "#ef80bf"
+        "foreground": "#ef80bf",
+        "fontStyle": "bold"
       }
     },
     {
@@ -237,7 +245,7 @@
       "scope": "invalid",
       "settings": {
         "foreground": "#d3cfcf",
-        "background": "#3c0f12"
+        "background": "#461017"
       }
     },
     {
@@ -250,7 +258,7 @@
     {
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#ff78aa",
+        "foreground": "#cc9bcf",
         "fontStyle": "italic"
       }
     },
@@ -261,13 +269,76 @@
         "support.constant.property-value"
       ],
       "settings": {
-        "foreground": "#ef80bf"
+        "foreground": "#ef80bf",
+        "fontStyle": "bold"
       }
     },
     {
       "scope": "support.type",
       "settings": {
         "foreground": "#f470df"
+      }
+    },
+    {
+      "scope": "meta.function-call.generic",
+      "settings": {
+        "foreground": "#f59280",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "meta.preprocessor",
+      "settings": {
+        "foreground": "#8fbaef",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "entity.name.function.lisp",
+      "settings": {
+        "foreground": "#f59280",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "keyword.control.lisp",
+      "settings": {
+        "foreground": "#ef80bf",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "constant.language.lisp",
+      "settings": {
+        "foreground": "#a897ef",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "storage.type.function.lisp",
+      "settings": {
+        "foreground": "#e5b76f",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "rx-escape",
+      "settings": {
+        "foreground": "#9ac0e4"
+      }
+    },
+    {
+      "scope": "rx-construct",
+      "settings": {
+        "foreground": "#ff7359"
+      }
+    },
+    {
+      "name": "Line number active",
+      "scope": "editorLineNumber.activeForeground",
+      "settings": {
+        "foreground": "#ffffff",
+        "fontStyle": "bold"
       }
     }
   ]

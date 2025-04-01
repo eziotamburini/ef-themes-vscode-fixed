@@ -28,7 +28,11 @@
     "editor.findMatchHighlightBackground": "#60300099",
     "editor.lineHighlightBackground": "#301a4f",
     "editor.selectionBackground": "#042a50",
+    "editor.selectionForeground": "#ffffff",
+    "editor.inactiveSelectionBackground": "#042a5080",
+    "editor.selectionHighlightBackground": "#042a5040",
     "editorCursor.foreground": "#ef6f11",
+    "editorCursor.background": "#070019",
     "editorError.foreground": "#ef656a",
     "editorGroup.border": "#2a2739",
     "editorGroupHeader.tabsBackground": "#13101f",
@@ -37,6 +41,7 @@
     "editorHoverWidget.border": "#4a4759",
     "editorIndentGuide.background": "#1d1a26",
     "editorLineNumber.foreground": "#857f8f",
+    "editorLineNumber.activeForeground": "#ffffff",
     "editorLink.activeForeground": "#0dafdf",
     "editorRuler.foreground": "#3a3a3a",
     "editorSuggestWidget.background": "#2a2739",
@@ -118,7 +123,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#9f8f6a",
+        "foreground": "#d08f72",
         "fontStyle": "italic"
       }
     },
@@ -146,7 +151,7 @@
         "constant"
       ],
       "settings": {
-        "foreground": "#d0d0d0"
+        "foreground": "#379cf6"
       }
     },
     {
@@ -162,7 +167,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#5faaef"
+        "foreground": "#379cf6"
       }
     },
     {
@@ -187,7 +192,8 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#0dafdf"
+        "foreground": "#0dafdf",
+        "fontStyle": "bold"
       }
     },
     {
@@ -198,7 +204,7 @@
         "storage.type.type"
       ],
       "settings": {
-        "foreground": "#6f80ff"
+        "foreground": "#029fff"
       }
     },
     {
@@ -207,7 +213,8 @@
         "storage.modifier.async"
       ],
       "settings": {
-        "foreground": "#6f80ff"
+        "foreground": "#6f80ff",
+        "fontStyle": "bold"
       }
     },
     {
@@ -218,7 +225,8 @@
         "storage"
       ],
       "settings": {
-        "foreground": "#6f80ff"
+        "foreground": "#6f80ff",
+        "fontStyle": "bold"
       }
     },
     {
@@ -237,20 +245,20 @@
       "scope": "invalid",
       "settings": {
         "foreground": "#d0d0d0",
-        "background": "#360d09"
+        "background": "#461210"
       }
     },
     {
       "scope": "markup.underline.link.markdown",
       "settings": {
-        "foreground": "#0dafdf",
+        "foreground": "#7fafff",
         "fontStyle": "underline"
       }
     },
     {
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#029fff",
+        "foreground": "#d08f72",
         "fontStyle": "italic"
       }
     },
@@ -261,7 +269,8 @@
         "support.constant.property-value"
       ],
       "settings": {
-        "foreground": "#6f80ff"
+        "foreground": "#6f80ff",
+        "fontStyle": "bold"
       }
     },
     {
@@ -269,7 +278,68 @@
       "settings": {
         "foreground": "#029fff"
       }
+    },
+    {
+      "scope": "meta.function-call.generic",
+      "settings": {
+        "foreground": "#0dafdf",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "meta.preprocessor",
+      "settings": {
+        "foreground": "#7fafff",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "entity.name.function.lisp",
+      "settings": {
+        "foreground": "#0dafdf",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "keyword.control.lisp",
+      "settings": {
+        "foreground": "#6f80ff",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "constant.language.lisp",
+      "settings": {
+        "foreground": "#379cf6",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "storage.type.function.lisp",
+      "settings": {
+        "foreground": "#1fa526",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "rx-escape",
+      "settings": {
+        "foreground": "#af85ff"
+      }
+    },
+    {
+      "scope": "rx-construct",
+      "settings": {
+        "foreground": "#379cf6"
+      }
+    },
+    {
+      "name": "Line number active",
+      "scope": "editorLineNumber.activeForeground",
+      "settings": {
+        "foreground": "#ffffff",
+        "fontStyle": "bold"
+      }
     }
   ]
 }
-

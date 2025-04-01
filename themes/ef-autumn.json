@@ -27,8 +27,12 @@
     "editor.foreground": "#cfbcba",
     "editor.findMatchHighlightBackground": "#69320099",
     "editor.lineHighlightBackground": "#302a3a",
-    "editor.selectionBackground": "#3f1020",
+    "editor.selectionBackground": "#3f1324",
+    "editor.selectionForeground": "#ffffff",
+    "editor.inactiveSelectionBackground": "#3f132480",
+    "editor.selectionHighlightBackground": "#3f132440",
     "editorCursor.foreground": "#ffaa33",
+    "editorCursor.background": "#0f0e06",
     "editorError.foreground": "#ef656a",
     "editorGroup.border": "#36322f",
     "editorGroupHeader.tabsBackground": "#15140d",
@@ -37,6 +41,7 @@
     "editorHoverWidget.border": "#56524f",
     "editorIndentGuide.background": "#26211d",
     "editorLineNumber.foreground": "#887c8a",
+    "editorLineNumber.activeForeground": "#ffffff",
     "editorLink.activeForeground": "#3dbbb0",
     "editorRuler.foreground": "#3a3a3a",
     "editorSuggestWidget.background": "#36322f",
@@ -114,7 +119,7 @@
     "terminal.ansiBrightRed": "#ff7a7f",
     "terminal.ansiBrightYellow": "#df8f6f"
   },
-    "tokenColors": [
+  "tokenColors": [
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
@@ -146,7 +151,7 @@
         "constant"
       ],
       "settings": {
-        "foreground": "#cfbcba"
+        "foreground": "#64aa0f"
       }
     },
     {
@@ -162,7 +167,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#ff7a7f"
+        "foreground": "#64aa0f"
       }
     },
     {
@@ -187,7 +192,8 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#3dbbb0"
+        "foreground": "#3dbbb0",
+        "fontStyle": "bold"
       }
     },
     {
@@ -198,7 +204,7 @@
         "storage.type.type"
       ],
       "settings": {
-        "foreground": "#c48702"
+        "foreground": "#2fa526"
       }
     },
     {
@@ -207,7 +213,8 @@
         "storage.modifier.async"
       ],
       "settings": {
-        "foreground": "#c48702"
+        "foreground": "#c48702",
+        "fontStyle": "bold"
       }
     },
     {
@@ -218,7 +225,8 @@
         "storage"
       ],
       "settings": {
-        "foreground": "#c48702"
+        "foreground": "#c48702",
+        "fontStyle": "bold"
       }
     },
     {
@@ -250,7 +258,7 @@
     {
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#2fa526",
+        "foreground": "#c590af",
         "fontStyle": "italic"
       }
     },
@@ -261,7 +269,8 @@
         "support.constant.property-value"
       ],
       "settings": {
-        "foreground": "#c48702"
+        "foreground": "#ff7a7f",
+        "fontStyle": "bold"
       }
     },
     {
@@ -269,8 +278,68 @@
       "settings": {
         "foreground": "#2fa526"
       }
+    },
+    {
+      "scope": "meta.function-call.generic",
+      "settings": {
+        "foreground": "#3dbbb0",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "meta.preprocessor",
+      "settings": {
+        "foreground": "#d570af",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "entity.name.function.lisp",
+      "settings": {
+        "foreground": "#3dbbb0",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "keyword.control.lisp",
+      "settings": {
+        "foreground": "#c48702",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "constant.language.lisp",
+      "settings": {
+        "foreground": "#64aa0f",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "storage.type.function.lisp",
+      "settings": {
+        "foreground": "#00b066",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "rx-escape",
+      "settings": {
+        "foreground": "#00b066"
+      }
+    },
+    {
+      "scope": "rx-construct",
+      "settings": {
+        "foreground": "#af8aff"
+      }
+    },
+    {
+      "name": "Line number active",
+      "scope": "editorLineNumber.activeForeground",
+      "settings": {
+        "foreground": "#ffffff",
+        "fontStyle": "bold"
+      }
     }
   ]
 }
-
-
