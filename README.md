@@ -14,7 +14,7 @@ All original themes are credited to [anhsirk0](https://github.com/anhsirk0) and 
 
 ## 🚀 Installation Guide
 
-Follow these simple steps to install Ef-Themes Fixed and elevate your VSCode experience:
+Follow these simple steps to install:
 
 ```bash
 git clone https://github.com/eziotamburini/ef-themes-vscode-fixed.git ~/.vscode/extensions/ef-themes
@@ -25,8 +25,6 @@ For OSS or VSCodium users:
 ```bash
 git clone https://github.com/eziotamburini/ef-themes-vscode-fixed.git ~/.vscode-oss/extensions/ef-themes
 ```
-
-**Note:** You might want to delete the `screenshots/` folder!
 
 Then restart VSCode and enjoy! 🎉 Open the command palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and search for **"Color Theme"** to try out the new look. 🌈💻
 
