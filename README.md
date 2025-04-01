@@ -48,12 +48,12 @@ Here’s a taste of what’s included:
 
 ## ❤️ Credits & Acknowledgment
 
-This project builds upon the meticulous work of two creators:
+This project builds upon the work of two creators:
 
-- The original VSCode port by a passionate contributor ([GitHub link](https://github.com/anhsirk0/ef-themes-vscode)) 🌐
-- The Emacs Ef-Themes by a renowned theme designer and philosopher ([Ef-Themes website](https://protesilaos.com/emacs/ef-themes/)) 🎨🧠
+- The original VSCode port by ([GitHub link](https://github.com/anhsirk0/ef-themes-vscode)) 🌐
+- The Emacs Ef-Themes by ([Ef-Themes website](https://protesilaos.com/emacs/ef-themes/)) 🎨🧠
 
-While this version offers fixes and improvements, the spirit and beauty of the Ef-Themes come directly from their work.
+While this version offers fixes and improvements, the spirit and beauty of these themes come directly from their work.
 
 ---
 
